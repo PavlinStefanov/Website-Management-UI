@@ -8,5 +8,6 @@
  - open project from VS Code
  - run 'npm install'
  - run 'ng serve'
+ - navigate to https://localhost:4200
 
 
