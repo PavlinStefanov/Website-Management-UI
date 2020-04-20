@@ -5,7 +5,8 @@
  - angular-cli v7.3.1
 
  Download project
- - run npm install
- - run ng serve
+ - open project from VS Code
+ - run 'npm install'
+ - run 'ng serve'
 
 
